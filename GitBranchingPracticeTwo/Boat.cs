@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace GitBranchingPracticeTwo
 {
-    internal class Boat
+    internal class Boat : Vehicle
     {
+        public string Captain { get; set; }
     }
 }
