@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using GitBranchingPracticeTwo;
+
 Console.WriteLine("Hello, Aaron!");
+
+Airplane airplane = new Airplane();
